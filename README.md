@@ -38,5 +38,8 @@ Passionate about **Cloud Native, GitOps, and Observability**, with hands-on expe
 
 ---
 
-📌 Explore my showcase → [devops-cloud-infra-showcase](https://github.com/rasmabayu/devops-cloud-infra-showcase)  
+📌 Explore my Showcase:
+→ [Production-Grade Practices | Multi-Cloud Infrastructure | GitOps & CI/CD (ArgoCD, Jenkins) | Observability & Monitoring (Prometheus, Grafana) | Security, Compliance & Cost Optimization)](https://github.com/rasmabayu/devops-cloud-infra-showcase)  
+
+---
 📫 Connect with me on [LinkedIn](https://linkedin.com/in/rasmabayu)  
