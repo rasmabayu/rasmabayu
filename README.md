@@ -35,7 +35,8 @@ Passionate about **Cloud Native, GitOps, and Observability**, with hands-on expe
 ---
 ### ⬇️ Explore my Showcase:
 - [Production-Grade Practices | Multi-Cloud Infrastructure | GitOps & CI/CD (ArgoCD, Jenkins) | Observability & Monitoring (Prometheus, Grafana) | Security, Compliance & Cost Optimization)](https://github.com/rasmabayu/devops-cloud-infra-showcase)  
-
+- [RabbitMQ Cluster on Kubernetes — High Availability Practices](https://github.com/rasmabayu/rabbitmq-advanced-ha-k8s)
+- [More to Come 🚧]
 ---
 
 📫 Connect with me on [LinkedIn](https://linkedin.com/in/rasmabayu)  
