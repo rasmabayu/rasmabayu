@@ -1,16 +1,24 @@
 # Hi, I'm Rasma Bayu 👋
 💻 **Senior DevOps / Cloud Infrastructure Engineer**  
 
-I specialize in building **scalable, secure, and automated infrastructures** across multi-cloud and on-prem environments.  
+I specialize in building **scalable, secure, and automated infrastructures** across multi-cloud environments.  
 Passionate about **Cloud Native, GitOps, and Observability**, with hands-on experience driving reliability, cost-efficiency, and compliance at scale.
 
-![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions%20%7C%20GitLab%20CI%20%7C%20Jenkins-blue?logo=githubactions&logoColor=white)
-![GitOps](https://img.shields.io/badge/GitOps-ArgoCD%20%7C%20Kustomize-orange?logo=argo&logoColor=white)
-![Cloud](https://img.shields.io/badge/Multi--Cloud-GCP%20%7C%20On--Prem-lightgrey?logo=googlecloud&logoColor=white)
-![Observability](https://img.shields.io/badge/Observability-Prometheus%20%7C%20Grafana%20%7C%20ELK-success?logo=grafana&logoColor=white)
-![Security](https://img.shields.io/badge/Security-OPA%20%7C%20Vault%20%7C%20Trivy-red?logo=vault&logoColor=white)
-![FinOps](https://img.shields.io/badge/FinOps-Kubecost-yellow?logo=money&logoColor=white)
-![DR](https://img.shields.io/badge/DR-Velero-blue?logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-783CF9?style=flat&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-004080?style=flat&logo=argo&logoColor=white)
+![Vault](https://img.shields.io/badge/Vault-FFFFFF?style=flat&logo=hashicorp&logoColor=black)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 
 ---
 ### 🔧 Core Expertise
@@ -30,5 +38,5 @@ Passionate about **Cloud Native, GitOps, and Observability**, with hands-on expe
 
 ---
 
-📌 Explore my full showcase → [devops-cloud-infra-showcase](https://github.com/rasmabayu/devops-cloud-infra-showcase)  
+📌 Explore my showcase → [devops-cloud-infra-showcase](https://github.com/rasmabayu/devops-cloud-infra-showcase)  
 📫 Connect with me on [LinkedIn](https://linkedin.com/in/rasmabayu)  
