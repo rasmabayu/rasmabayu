@@ -34,7 +34,7 @@ Passionate about **Cloud Native, GitOps, and Observability**, with hands-on expe
 - **Resilience & DR**: Velero  
 ---
 ### ⬇️ Explore my Showcase:
-- [Production-Grade Practices | Multi-Cloud Infrastructure | GitOps & CI/CD (ArgoCD, Jenkins) | Observability & Monitoring (Prometheus, Grafana) | Security, Compliance & Cost Optimization)](https://github.com/rasmabayu/devops-cloud-infra-showcase)  
+- [Full-Stack Cloud Infrastructure — Kubernetes, Multi-Cloud & Production Best Practices (GitOps & CI/CD | Observability & Monitoring | Security, Compliance & Cost Optimization)](https://github.com/rasmabayu/devops-cloud-infra-showcase)  
 - [RabbitMQ Cluster on Kubernetes — High Availability Practices](https://github.com/rasmabayu/rabbitmq-advanced-ha-k8s)
 - [More to Come 🚧]
 ---
