@@ -5,7 +5,7 @@ Yogyakarta, Indonesia (UTC+7) · 🟢 Open to remote roles
 
 12+ years in IT infrastructure, from on-prem system administration to production Kubernetes and GCP platforms. I build reliable CI/CD, highly available systems and paved paths that let developers ship faster, with a focus on security, automation, observability and cost.
 
-At [majoo](https://majoo.id) I run the platform behind **40,000 MSME outlets** at hundreds of thousands of requests a day, keeping incidents **under 1%** while cutting cloud cost **20–30%**, and I lead applied AI/LLM work in infrastructure.
+At [majoo](https://majoo.id) I run the platform behind an MSME SaaS used by **45,000+ businesses in 600 cities**, at hundreds of thousands of requests a day, keeping incidents **under 1%** while cutting cloud cost **20–30%**, and I lead applied AI/LLM work in infrastructure.
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
