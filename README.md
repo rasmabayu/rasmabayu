@@ -1,14 +1,15 @@
 # Hi, I'm Rasma Bayu 👋
 
 **Senior Infrastructure Engineer · Cloud & Platform Engineering**
-Yogyakarta, Indonesia (UTC+7) · 🟢 Open to remote roles
+Yogyakarta, Indonesia (UTC+7) · 🟢 Open to remote freelance projects
 
-12+ years in IT infrastructure, from on-prem system administration to production Kubernetes and GCP platforms. I build reliable CI/CD, highly available systems and paved paths that let developers ship faster, with a focus on security, automation, observability and cost.
+12+ years in IT infrastructure, from on-prem system administration to production Kubernetes, GCP and Azure platforms. I build reliable CI/CD, highly available systems and paved paths that let developers ship faster, with a focus on security, automation, observability and cost.
 
-At [majoo](https://majoo.id) I run the platform behind an MSME SaaS used by **45,000+ businesses in 600 cities**, at hundreds of thousands of requests a day, keeping incidents **under 1%** while cutting cloud cost **20–30%**, and I lead applied AI/LLM work in infrastructure.
+At [majoo](https://majoo.id) I run the platform behind an MSME SaaS used by **45,000+ businesses in 600 cities**, at hundreds of thousands of requests a day, keeping it stable while cutting cloud cost **20–30%**, and I lead applied AI/LLM work in infrastructure.
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
@@ -28,7 +29,7 @@ At [majoo](https://majoo.id) I run the platform behind an MSME SaaS used by **45
 
 ### 🔧 What I work with
 
-- **Platform:** Kubernetes, GCP, Docker, Linux, DigitalOcean, on-prem
+- **Platform:** Kubernetes, GCP, Azure, Docker, Linux, DigitalOcean, on-prem
 - **Delivery & IaC:** Argo CD (GitOps), Jenkins, GitLab CI, GitHub Actions, Terraform, Atlantis, Ansible
 - **Observability:** Prometheus, Grafana, Alertmanager, Loki, Elasticsearch/Kibana, Datadog, ElastAlert
 - **Data & messaging:** MySQL, PostgreSQL, MongoDB, Redis, RabbitMQ, Kafka
