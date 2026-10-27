@@ -3,7 +3,9 @@
 **Senior Infrastructure Engineer · Cloud & Platform Engineering**
 Yogyakarta, Indonesia (UTC+7) · 🟢 Open to remote freelance projects
 
-12+ years in IT infrastructure, from on-prem system administration to production Kubernetes, GCP and Azure platforms. I build reliable CI/CD, highly available systems and paved paths that let developers ship faster, with a focus on security, automation, observability and cost.
+12+ years in IT infrastructure, from on-prem system administration to cloud-native systems in production. I build reliable CI/CD, highly available systems and paved paths that let developers ship faster, with a focus on security, automation, observability and cost.
+
+Tools change; the fundamentals don't. I start from the problem and the concept, then pick the tool that fits the team.
 
 At [majoo](https://majoo.id) I run the platform behind an MSME SaaS used by **45,000+ businesses in 600 cities**, at hundreds of thousands of requests a day, keeping it stable while cutting cloud cost **20–30%**, and I lead applied AI/LLM work in infrastructure.
 
@@ -27,14 +29,22 @@ At [majoo](https://majoo.id) I run the platform behind an MSME SaaS used by **45
 
 ---
 
-### 🔧 What I work with
+### 🧭 Concepts & tools
 
-- **Platform:** Kubernetes, GCP, Azure, Docker, Linux, DigitalOcean, on-prem
-- **Delivery & IaC:** Argo CD (GitOps), Jenkins, GitLab CI, GitHub Actions, Terraform, Atlantis, Ansible
-- **Observability:** Prometheus, Grafana, Alertmanager, Loki, Elasticsearch/Kibana, Datadog, ElastAlert
-- **Data & messaging:** MySQL, PostgreSQL, MongoDB, Redis, RabbitMQ, Kafka
-- **Security & resilience:** HashiCorp Vault, SOPS, OPA, Trivy, Velero, Kubecost
-- **AI & automation:** self-hosted LLM serving, LLM gateway, AIOps, Python, Shell, Go
+| Concept | Tools I've used for it |
+|---------|------------------------|
+| Cloud platforms | GCP, Azure, DigitalOcean, on-prem |
+| Containerization | Docker |
+| Container orchestration | Kubernetes, Docker Swarm |
+| Infrastructure as Code | Terraform, Atlantis |
+| Configuration management | Ansible |
+| CI/CD | Jenkins, GitLab CI, GitHub Actions |
+| GitOps | Argo CD |
+| Observability | Prometheus, Grafana, Alertmanager, Loki, Elasticsearch/Kibana, Datadog, ElastAlert |
+| Data & messaging | MySQL, PostgreSQL, MongoDB, Redis, RabbitMQ, Kafka |
+| Security & resilience | Linux hardening, HashiCorp Vault, SOPS, OPA, Trivy, Velero, Kubecost |
+| AIOps & LLM infrastructure | self-hosted LLM serving, LLM gateway |
+| Automation & scripting | Python, Shell, Go |
 
 ### 🛠️ Projects
 
